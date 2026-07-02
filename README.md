@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohi010/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohi010/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/mohi010/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mohi010/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohi010/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
