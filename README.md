@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohi010/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mohi010/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohi010/leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/mohi010/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohi010/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mohi010/leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/mohi010/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
