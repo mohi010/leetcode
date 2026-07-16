@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mohi010/leetcode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/mohi010/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohi010/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/mohi010/leetcode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohi010/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohi010/leetcode/tree/master/0268-missing-number) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mohi010/leetcode/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
