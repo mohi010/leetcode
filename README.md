@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohi010/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/mohi010/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohi010/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohi010/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mohi010/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohi010/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohi010/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mohi010/leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohi010/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohi010/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohi010/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mohi010/leetcode/tree/master/3024-type-of-triangle) |
 ## Simulation
