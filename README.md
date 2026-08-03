@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohi010/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohi010/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/mohi010/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohi010/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohi010/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/mohi010/leetcode/tree/master/2942-find-words-containing-character) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohi010/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mohi010/leetcode/tree/master/0709-to-lower-case) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohi010/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/mohi010/leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Indexed Tree
 |  |
