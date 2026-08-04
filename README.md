@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mohi010/leetcode/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/mohi010/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohi010/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mohi010/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/mohi010/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mohi010/leetcode/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/mohi010/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
