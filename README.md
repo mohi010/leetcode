@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohi010/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/mohi010/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohi010/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohi010/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohi010/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mohi010/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohi010/leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohi010/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/mohi010/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohi010/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohi010/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/mohi010/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mohi010/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -257,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mohi010/leetcode/tree/master/0234-palindrome-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
