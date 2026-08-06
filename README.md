@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/mohi010/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohi010/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/mohi010/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohi010/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/mohi010/leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohi010/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mohi010/leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/mohi010/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohi010/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohi010/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/mohi010/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2326-spiral-matrix-iv](https://github.com/mohi010/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohi010/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/mohi010/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mohi010/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohi010/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/mohi010/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
