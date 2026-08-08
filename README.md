@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohi010/leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohi010/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mohi010/leetcode/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohi010/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohi010/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/mohi010/leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Indexed Tree
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohi010/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/mohi010/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohi010/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohi010/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohi010/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Minimax
 |  |
