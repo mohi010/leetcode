@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mohi010/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohi010/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/mohi010/leetcode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/mohi010/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mohi010/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohi010/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohi010/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mohi010/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/mohi010/leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohi010/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/mohi010/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2974-minimum-number-game](https://github.com/mohi010/leetcode/tree/master/2974-minimum-number-game) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohi010/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/mohi010/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohi010/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/mohi010/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohi010/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohi010/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Minimax
