@@ -27,8 +27,8 @@ class Solution {
         ListNode dNode = new ListNode(-1, temp1);
         ListNode temp = dNode;
         temp = temp.next;
-        Stack<Integer> st = new Stack<>();
-        st.push(temp1.val);
+        // Stack<Integer> st = new Stack<>();
+        // st.push(temp1.val);
         int max = temp1.val;
         temp1 = temp1.next;
         while(temp1!=null){
